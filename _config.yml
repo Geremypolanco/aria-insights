@@ -1,0 +1,6 @@
+title: ARIA Insights
+description: AI-generated insights on technology, business & productivity
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
